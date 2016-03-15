@@ -1,0 +1,32 @@
+{
+  "name": "sonarqube-mysql",
+  "version": "0.1.1",
+  "description": "Configures a MySQL database for use with SonarQube",
+  "long_description": "Configures a MySQL database for use with SonarQube",
+  "maintainer": "Peter Halliday",
+  "maintainer_email": "pghalliday@gmail.com",
+  "license": "MIT",
+  "platforms": {
+    "ubuntu": ">= 0.0.0",
+    "centos": ">= 0.0.0"
+  },
+  "dependencies": {
+    "database": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  }
+}
